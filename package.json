@@ -1,7 +1,7 @@
 {
   "name": "to-do-list",
   "version": "1.0.0",
-  "description": "",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "webpack.config.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.config_dev.js --open",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kakalanp/TO-DO-list.git"
+    "url": "git+https://github.com/Kakalanp/TO-DO-list-peer-feedback-review.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kakalanp/TO-DO-list/issues"
+    "url": "https://github.com/Kakalanp/TO-DO-list-peer-feedback-review/issues"
   },
-  "homepage": "https://github.com/Kakalanp/TO-DO-list#readme",
+  "homepage": "https://github.com/Kakalanp/TO-DO-list-peer-feedback-review#readme",
   "devDependencies": {
     "css-loader": "^6.6.0",
     "html-loader": "^3.1.0",
