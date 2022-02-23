@@ -1,4 +1,4 @@
-import { getLocalStorage as get, setLocalStorage as set } from './setGet.js';
+import { default as get, setLocalStorage as set } from './setGet.js';
 import editTasks from './editTasks.js';
 
 export default function createList() {

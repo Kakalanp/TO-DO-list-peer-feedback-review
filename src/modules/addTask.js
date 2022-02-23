@@ -1,4 +1,4 @@
-import { getLocalStorage as get, setLocalStorage as set } from './setGet.js';
+import { default as get, setLocalStorage as set } from './setGet.js';
 
 export default class Task {
   constructor(desc) {
